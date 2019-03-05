@@ -4,6 +4,21 @@
 
 
 
+##### GitHub初始化
+
+
+
+```shell
+echo "# makedown" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/LeonL1ang/makedown.git
+git push -u origin master
+```
+
+
+
 
 
 ##### 常用命令
