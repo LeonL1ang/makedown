@@ -46,8 +46,11 @@ vue init webpack vue_demo      #用webpack模板创建一个项目
 
 
 
-
 ### 引入 mavon-editor
+
+
+
+**`github地址`** https://github.com/hinesboy/mavonEditor
 
 
 
